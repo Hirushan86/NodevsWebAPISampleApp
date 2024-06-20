@@ -1,6 +1,3 @@
-# NodevsWebAPISampleApp
-Sample api code created with Node and Web API to learn the differences between the languages
-
 1) Create web api
 
 dotnet new webapi -n SampleWebAPI
